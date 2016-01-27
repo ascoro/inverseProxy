@@ -1,0 +1,23 @@
+{
+  "name": "inverseProxy",
+  "version": "0.0.1",
+  "description": "Sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ascoro/inverseProxy"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT"
+}
